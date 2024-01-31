@@ -1,0 +1,11 @@
+{
+    "name": "paidinafrica/ke",
+    "description": "Pay and get paid in Kenya",
+    "autoload": {
+        "psr-4": {
+            "PaidInAfrica\\Kenya\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
