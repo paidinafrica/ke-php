@@ -15,7 +15,7 @@ NCBA Bank| Ncba | NCBA
 
 #### Initiate STK Push
 ```php
-use PaidInAfrica\Banks;
+use PaidInAfrica\Providers\Banks;
 
 class PaymentService
 {
